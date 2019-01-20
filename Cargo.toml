@@ -2,6 +2,7 @@
 authors = ["Daniel García Moreno <danigm@wadobo.com>"]
 name = "update"
 version = "0.1.0"
+edition = "2018"
 
 [dependencies]
 clap = "2.32.0"
