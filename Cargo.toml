@@ -4,12 +4,12 @@ name = "update"
 version = "0.1.0"
 
 [dependencies]
-clap = "2.30.0"
-failure = "0.1.1"
-regex = "0.2.6"
-reqwest = "0.8.5"
-serde = "1.0.27"
+clap = "2.32.0"
+failure = "0.1.5"
+regex = "1.1.0"
+reqwest = "0.9.8"
+serde = "1.0.85"
 
 [dependencies.serde_json]
 features = ["preserve_order"]
-version = "1.0.9"
+version = "1.0.36"
